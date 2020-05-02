@@ -1,0 +1,2 @@
+# TheFloatingBrainOperatingSystems350CourseOperatingSystemFinalProduct0
+Operating System created for my Operating Systems 350 course, meant to be used in conjunction with the default processor on https://github.com/mdblack/simulator but could run in the bootloader section of any DOS BIOS name of this repository is purposefully obviated to avoid polluting the namespace of repos with "OperatingSystem" in the title
