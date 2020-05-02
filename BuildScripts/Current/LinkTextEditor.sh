@@ -1,0 +1,1 @@
+ld86 -o ../../Binary/Current/txtedt -d ../../Binary/Current/TextEditorIntermediate/Main.o ../../Binary/Current/KernelLibrary/DynamicMemory.o ../../Binary/Current/KernelLibrary/Math.o ../../Binary/Current/CurrentLib/KernelLibIntermediate/lib_asm.o

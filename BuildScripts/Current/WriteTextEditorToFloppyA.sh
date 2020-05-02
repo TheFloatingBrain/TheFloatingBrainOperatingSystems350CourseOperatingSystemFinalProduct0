@@ -1,0 +1,1 @@
+dd if=../../Binary/Current/txtedt of=../../IMG/Current/floppya.img bs=512 conv=notrunc seek=47

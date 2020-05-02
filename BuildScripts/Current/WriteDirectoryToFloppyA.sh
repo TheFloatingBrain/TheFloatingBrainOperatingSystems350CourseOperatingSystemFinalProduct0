@@ -1,0 +1,1 @@
+dd if=../../IMG/Current/dir.img of=../../IMG/Current/floppya.img bs=512 conv=notrunc seek=2

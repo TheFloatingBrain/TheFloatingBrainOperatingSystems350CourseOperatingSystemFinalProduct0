@@ -1,0 +1,1 @@
+dd if=../../Files/message.txt of=../../IMG/Current/floppya.img bs=512 conv=notrunc seek=13
